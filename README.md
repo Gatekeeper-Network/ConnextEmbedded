@@ -34,9 +34,3 @@ By default, the Docker will expose port 8080, so change this within the Dockerfi
 
 
 
-License
-----
-
-MIT
-
-
